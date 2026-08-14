@@ -12,4 +12,4 @@
 
 ## 배포
 
-_(연결 후 링크 추가 예정)_
+https://interaction-test-psi.vercel.app
